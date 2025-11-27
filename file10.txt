@@ -1,2 +1,6 @@
 Elias 
+<<<<<<< HEAD
+
+=======
 Elias
+>>>>>>> template
